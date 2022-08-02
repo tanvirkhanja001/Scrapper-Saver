@@ -1,4 +1,4 @@
-# scrapper And Saver
+# Scrapper And Saver
 This will allow us to scrap any Table from a Webside. And save that table to a CSV file format
 
 # Usage 
@@ -6,6 +6,7 @@ Just add this lines of code inside your project
 
 # Note
 It uses JSoup for scrapping.
+And also Scala Reflect for writting.
 This repo is under construstion.
 
 # End Goal
