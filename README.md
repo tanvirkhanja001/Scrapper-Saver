@@ -1,5 +1,5 @@
 # Scrapper And Saver
-This will allow us to scrap any Table from a Webside. And save that table to a CSV file format
+This will allow us to scrap any Table. And save that table to a CSV file format
 
 # Usage 
 Just add this lines of code inside your project
